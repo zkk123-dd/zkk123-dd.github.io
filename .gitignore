@@ -1,0 +1,14 @@
+# 本地临时文件
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 密钥 / 凭据（绝不上传）
+*.token
+token.txt
+sf_key.txt
+.env
+
+# 截图原始输出
+shots/
